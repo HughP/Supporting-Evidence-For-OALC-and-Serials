@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2022-09-02T05:11:59Z</responseDate><request verb="GetRecord" identifier="oai%3Aanla.uaf.edu%3AKO936S1942" metadataPrefix="olac">http://www.language-archives.org/cgi-bin/olaca3.pl</request><GetRecord><record><header><identifier>oai:anla.uaf.edu:KO936S1942</identifier><datestamp>2016-12-09</datestamp></header><metadata><olac:olac xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:olac="http://www.language-archives.org/OLAC/1.1/" xsi:schemaLocation="
+http://purl.org/dc/elements/1.1/
+http://www.language-archives.org/OLAC/1.1/dc.xsd
+http://purl.org/dc/terms/
+http://www.language-archives.org/OLAC/1.1/dcterms.xsd
+http://www.language-archives.org/OLAC/1.1/
+http://www.language-archives.org/OLAC/1.1/olac.xsd
+"><dc:title>Temporal Concepts fo the Ten'a </dc:title><dc:date>1942</dc:date><dc:description>Journal article, 8 pages. From: Primitive Man. Vol 15, No. 3/4 (July-October, 1942), pages 57-65. Citation: George Washington University, Institute for Ethnographic Research.</dc:description><dc:format>application/pdf</dc:format><dc:type xsi:type="dcterms:DCMIType">Text</dc:type></olac:olac></metadata></record></GetRecord></OAI-PMH>
