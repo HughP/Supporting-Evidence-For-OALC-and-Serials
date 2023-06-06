@@ -15,6 +15,9 @@ This repo contains several components.
 
 This repo was put together by Hugh Paterson III on September 4th 2022. To the extent that it is copyright-able, it is licensed under the Creative Commons License by Attribute.
 
-This repo is designed to be the "data pack" part of the following conference presentation:
+This repo is designed to be the "data pack" part of the following:
 
 Paterson III, Hugh J. 2022. OLAC Collections: The Case of Serials. Paper presented at the Language Documentation and Archiving Conference. Berlin-Brandenburgische Akademie der Wissenschaften, Berlin, Germany. October 5th–7th. https://hughandbecky.us/Hugh-CV/talk/2022-olac-collections-the-case-of-serials/
+
+Paterson III, Hugh J. 2023. OLAC and Serials: An Appraisal LangArc-2 workshop at the JCDL'23.
+
